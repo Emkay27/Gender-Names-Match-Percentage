@@ -1,0 +1,60 @@
+
+Kgatliso matches Thando 3%.
+
+Kgatliso matches Jhene 20%.
+
+Kgatliso matches Kimberly 5%.
+
+Kgatliso matches Trini 20%.
+
+Kgatliso matches Billy 20%.
+
+Jason matches Thando 90%, good match.
+
+Jason matches Jhene 71%.
+
+Jason matches Kimberly 20%.
+
+Jason matches Trini 71%.
+
+Jason matches Billy 71%.
+
+Emkay matches Thando 72%.
+
+Emkay matches Jhene 62%.
+
+Emkay matches Kimberly 20%.
+
+Emkay matches Trini 71%.
+
+Emkay matches Billy 71%.
+
+Billy matches Thando 81%, good match.
+
+Billy matches Jhene 71%.
+
+Billy matches Kimberly 20%.
+
+Billy matches Trini 71%.
+
+Billy matches Billy 62%.
+
+Tommy matches Thando 81%, good match.
+
+Tommy matches Jhene 62%.
+
+Tommy matches Kimberly 20%.
+
+Tommy matches Trini 62%.
+
+Tommy matches Billy 53%.
+
+Zack matches Thando 71%.
+
+Zack matches Jhene 70%.
+
+Zack matches Kimberly 91%, good match.
+
+Zack matches Trini 70%.
+
+Zack matches Billy 61%.
