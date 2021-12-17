@@ -153,7 +153,6 @@ public class GoodMatch {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        // System.out.print("Enter the file name: ");
         String csvFile = scan.next();
         GoodMatch obj = new GoodMatch();
         ArrayList<String> newArrL = GoodMatch.namesFromCSV(csvFile);
